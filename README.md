@@ -15,6 +15,7 @@ Aplicação construída com Django e VueJs
 <p> - Conexão com frontend para fornecer os dados solicitados</p>
 <p> - Responsavel pela obtenção dos dados</p>
 <p> - Comandos para criação de projeto</p>
+<p> - Criar ambiente virtual executando virtualenv <nome da venv</p>
 <p> - Depois de criar o ambiente virtual devemos ativar o mesmo executando o comando source env/Scripts/Activate <br></p>
 <p> - Será necessário  instalar o Django, com o comando pip install django</p>
 <p> - Instalar o Django Rest Framework, com o comando pip install djangorestframework</p>
